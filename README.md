@@ -6,7 +6,7 @@ This is an update to a loan qualification application that matches users to appr
 
 For this application you will require an understanding of python & a working understanding of using Fire & Questionary. This code was writen using MacOS in Jupyterlabs using a Python 3 kernel & will not function on py 2.7.. 
 
-- To start, a CSV of lender criteria for loans is imported as well as Fire & Questionary
+- To start, a CSV of lender criteria for loans is imported as well as Fire & Questionary.
 
 - Then users are prompted to supply their maximum loan application amount, credit score, debt, income, & home value. 
 
