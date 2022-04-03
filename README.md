@@ -6,7 +6,7 @@ This is an update to a loan qualification application that matches users to appr
 
 
 
-The codebase for the app is located in the master branch of this repo & is labeled app.py, you will find accompanying modules of data & calculations that I will define below.
+The codebase for the app is located in the master branch of this repo & is labeled app.py, it is located within a folder labeled 'loan_qualifier_app'. You will find accompanying modules of data & calculations that I will define below that are key to utilizing the apps functionality. These folders are labeled 'data' & 'qualifier'; within these folders you will find filter functions, calcualtions, & a bank data CSV. These all will be imported & documentation is available below. 
 
 
 
