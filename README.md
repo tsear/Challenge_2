@@ -52,7 +52,9 @@ Previously, this is where the app had conlcuded. With recent updates there is no
 
 & the new save_qualifying_loans function as such:
 
-'
+
+<img width="641" alt="Screen Shot 2022-04-03 at 7 38 32 PM" src="https://user-images.githubusercontent.com/98225311/161453886-f6df804d-7bfb-4114-ba1c-2574d1bd1bde.png">
+
 
 CONTRIBUTORS -
 Tyler Sear = WAGMI
