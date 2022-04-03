@@ -8,6 +8,8 @@ For this application you will require an understanding of python & a working und
 
 - To start, a CSV of lender criteria for loans is imported as well as Fire & Questionary.
 
+<img width="245" alt="Screen Shot 2022-04-03 at 6 28 37 PM" src="https://user-images.githubusercontent.com/98225311/161452047-70562b15-6ff1-4058-ab30-d42a10173c53.png">
+
 - Then users are prompted to supply their maximum loan application amount, credit score, debt, income, & home value. 
 
 <img width="699" alt="Screen Shot 2022-04-03 at 5 26 33 PM" src="https://user-images.githubusercontent.com/98225311/161449353-5f5536bd-04ad-4af5-abad-08e266beccd9.png">
