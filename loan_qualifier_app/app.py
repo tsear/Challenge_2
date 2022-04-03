@@ -109,7 +109,7 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     
-    if 
+    if
     
     
    """ with open("qualifying_loans", "w") as f:
