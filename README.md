@@ -21,8 +21,8 @@ For this application you will require an understanding of python & a working und
 INSTALATION -
 - To start, a CSV of lender criteria for loans is imported as well as Fire & Questionary.
 
-<img width="245" alt="Screen Shot 2022-04-03 at 6 28 37 PM" src="https://user-images.githubusercontent.com/98225311/161452047-70562b15-6ff1-4058-ab30-d42a10173c53.png">
 
+<img width="577" alt="Screen Shot 2022-04-03 at 7 31 29 PM" src="https://user-images.githubusercontent.com/98225311/161453625-a608ae82-bf93-47de-9b0d-4ab26cef7d4e.png">
 
 
 USAGE -
