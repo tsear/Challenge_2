@@ -32,7 +32,8 @@ USAGE -
 
 <img width="669" alt="Screen Shot 2022-04-03 at 5 28 06 PM" src="https://user-images.githubusercontent.com/98225311/161449383-5c554c51-459a-4c1e-81c1-16c2ab9d667b.png">
 
-  
+(https://github.com/tsear/Challenge_2/files/8405788/terminal_history.txt)
+
 - These calculations are then paired with user credit score & their maximum loan availability & are passed through filters (I will only provide one example for brevity sake & since they are derivative of one another) & are writen as such:
   
  <img width="575" alt="Screen Shot 2022-04-03 at 5 29 10 PM" src="https://user-images.githubusercontent.com/98225311/161449415-6d2d10b9-fdf8-4a64-b547-fbc07d14fa81.png">
@@ -52,6 +53,9 @@ Previously, this is where the app had conlcuded. With recent updates there is no
 
 CONTRIBUTORS -
 Tyler Sear = WAGMI
+
+TERMINAL HISTORY
+[terminal_history.txt](https://github.com/tsear/Challenge_2/files/8405789/terminal_history.txt)
 
 
 LICENSE - 
