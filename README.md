@@ -54,8 +54,8 @@ Previously, this is where the app had conlcuded. With recent updates there is no
 CONTRIBUTORS -
 Tyler Sear = WAGMI
 
-TERMINAL HISTORY
-[terminal_history.txt](https://github.com/tsear/Challenge_2/files/8405789/terminal_history.txt)
+TERMINAL HISTORY -
+[terminal_history.txt](https://github.com/tsear/Challenge_2/files/8405789/terminal_history.txt) (Starts at 800)
 
 
 LICENSE - 
