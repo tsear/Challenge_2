@@ -108,18 +108,16 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
+    save_qualifying_loans = questioanry.text("Save qualified loans?").ask()
     
-    if
-    
-    
-   """ with open("qualifying_loans", "w") as f:
+    with open("qualifying_loans", "w") as f:
         
         write = csv.writer(f)
         
         write = writerrow()
         write = writerows()
     save_csv(csvpath, qualifying_loans)
-""""
+
 
 def run():
     """The main function for running the script."""
