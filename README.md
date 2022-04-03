@@ -4,8 +4,15 @@ Repo for Challenge 2
 GENERAL INFO -
 This is an update to a loan qualification application that matches users to appropriate loans based off four (4) main criteria; maximum loan size available, user credit score, user debit to income ratio, and user loan to value ratio. Within this update there is an added user save functionality that allows users, when prompted, to save a list of loans they have qualified for as a CSV for ease of user consuption
 
+
+
+
 TECH REQUIREMENTS -
 For this application you will require an understanding of python & a working understanding of using Fire & Questionary. This code was writen using MacOS in Jupyterlabs using a Python 3 kernel & will not function on py 2.7.. 
+
+
+
+
 
 
 INSTALATION -
