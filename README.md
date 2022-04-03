@@ -1,15 +1,21 @@
 # Challenge_2
 Repo for Challenge 2
 
-
+GENERAL INFO -
 This is an update to a loan qualification application that matches users to appropriate loans based off four (4) main criteria; maximum loan size available, user credit score, user debit to income ratio, and user loan to value ratio. Within this update there is an added user save functionality that allows users, when prompted, to save a list of loans they have qualified for as a CSV for ease of user consuption
 
+TECH REQUIREMENTS -
 For this application you will require an understanding of python & a working understanding of using Fire & Questionary. This code was writen using MacOS in Jupyterlabs using a Python 3 kernel & will not function on py 2.7.. 
 
+
+INSTALATION -
 - To start, a CSV of lender criteria for loans is imported as well as Fire & Questionary.
 
 <img width="245" alt="Screen Shot 2022-04-03 at 6 28 37 PM" src="https://user-images.githubusercontent.com/98225311/161452047-70562b15-6ff1-4058-ab30-d42a10173c53.png">
 
+
+
+USAGE -
 - Then users are prompted to supply their maximum loan application amount, credit score, debt, income, & home value. 
 
 <img width="699" alt="Screen Shot 2022-04-03 at 5 26 33 PM" src="https://user-images.githubusercontent.com/98225311/161449353-5f5536bd-04ad-4af5-abad-08e266beccd9.png">
@@ -36,3 +42,11 @@ Previously, this is where the app had conlcuded. With recent updates there is no
 & the new save_qualifying_loans function as such:
 
 '
+
+CONTRIBUTORS -
+Tyler Sear = WAGMI
+
+
+LICENSE - 
+
+
