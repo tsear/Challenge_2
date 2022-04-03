@@ -6,6 +6,9 @@ This is an update to a loan qualification application that matches users to appr
 
 
 
+The codebase for the app is located in the master branch of this repo & is labeled app.py, you will find accompanying modules of data & calculations that I will define below.
+
+
 
 TECH REQUIREMENTS -
 For this application you will require an understanding of python & a working understanding of using Fire & Questionary. This code was writen using MacOS in Jupyterlabs using a Python 3 kernel & will not function on py 2.7.. 
